@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ============================================================
   ✏️  PERSONALIZED FOR: Abhinav Singh (@abhinavsinghparihar)
   Theme: Deep Violet + Amber | Dark & Light auto-switch
@@ -92,7 +93,3 @@ motto    : "Seekho. Banao. Improve karo. Phir repeat."
 **✨ Seekho · Banao · Ship Karo · Repeat ✨**
 
 <img src="https://komarev.com/ghpvc/?username=abhinavsinghparihar&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0B0614" alt="profile views"/>
-
-*Built with 💜 SVG + SMIL — zero JavaScript, GitHub-safe animations*
-
-</div>
