@@ -2,7 +2,7 @@
 
 ## 🚀 AI Developer
 
-Currently building **DEV AI** — a futuristic offline AI assistant inspired by Jarvis.
+Currently building **DEV AI** — a futuristic offline AI assistant
 
 ### 💻 Tech Stack
 - Python
