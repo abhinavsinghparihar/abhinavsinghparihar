@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhinav Singh
 
-<!--
-**abhinavsinghparihar/abhinavsinghparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Developer
 
-Here are some ideas to get you started:
+Currently building **DEV AI** — a futuristic offline AI assistant inspired by Jarvis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- Python
+- AI & Machine Learning
+- Ollama
+- PySide6
+- OpenCV
+- Git & GitHub
+
+### 📌 Current Project
+**DEV AI**
+
+> An offline desktop AI assistant with voice, vision, automation, and intelligent workflows.
+
+---
+⭐ Welcome to my GitHub profile!
