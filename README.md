@@ -70,11 +70,78 @@ motto    : "Seekho. Banao. Improve karo. Phir repeat."
 ---
 
 
-### 📈 Contribution Activity
+### 🚀 Featured Project — VEDNIX AI
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsinghparihar&bg_color=0B0614&color=C4B5FD&line=F5B53F&point=FCD34D&area=true&area_color=7C3AED&hide_border=true&radius=12" width="100%" alt="Abhinav's GitHub Activity Graph">
+<a href="https://github.com/abhinavsinghparihar/vednix">
+  <img src="https://img.shields.io/badge/VEDNIX%20AI-Government%20AI%20Platform-7C3AED?style=for-the-badge&logo=ai&logoColor=white" alt="Vednix AI"/>
+</a>
+
+<br/><br/>
+
+<p>
+  <strong>🇮🇳 AI-powered platform designed to make Indian government services,
+  schemes and digital assistance more accessible.</strong>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+**AI Assistant**
+
+AI-powered conversations  
+for citizen assistance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏛️
+**Govt. Schemes**
+
+Explore government  
+schemes & services
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎙️
+**Voice AI**
+
+Voice-based interaction  
+for accessibility
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️
+**Vision AI**
+
+OCR & document  
+understanding
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Tech Stack**
+
+`Next.js` • `React` • `FastAPI` • `Python` • `PostgreSQL` • `AI` • `OCR` • `PWA`
+
+<br/><br/>
+
+<a href="https://github.com/abhinavsinghparihar/vednix">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Vednix"/>
+</a>
 
 </div>
 
