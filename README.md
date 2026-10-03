@@ -73,11 +73,9 @@ motto    : "Seekho. Banao. Improve karo. Phir repeat."
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsinghparihar&bg_color=0B0614&color=C4B5FD&line=F5B53F&point=FCD34D&area=true&hide_border=true"
-    width="100%"
-    alt="Abhinav's GitHub Activity Graph"
-  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsinghparihar&bg_color=0B0614&color=C4B5FD&line=F5B53F&point=FCD34D&area=true&area_color=7C3AED&hide_border=true&radius=12" width="100%" alt="Abhinav's GitHub Activity Graph">
+
 </div>
 
 ### 🐍 Watch the snake eat my contributions
