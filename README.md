@@ -90,8 +90,7 @@ motto    : "Seekho. Banao. Improve karo. Phir repeat."
 
 ### vednix ai
 <p align="center">
-  <img src="./vednix-mark.svg" width="92" alt="Vednix Neural V logo" />
-</p>
+
 
 <h1 align="center">VEDNIX AI</h1>
 
