@@ -88,6 +88,25 @@ motto    : "Seekho. Banao. Improve karo. Phir repeat."
   <circle cx="24" cy="35" r="3.3" fill="#f4d68a" stroke="#fff3d6" stroke-width=".8"/>
 </svg>
 
+### vednix ai
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="gold" x1="8" y1="8" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d68a"/>
+      <stop offset="1" stop-color="#d9a83f"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#090806"/>
+  <rect x=".5" y=".5" width="47" height="47" rx="11.5" stroke="#e3b857" stroke-opacity=".45"/>
+  <path d="M13 13c4 7 7.5 14.5 11 22M35 13c-4 7-7.5 14.5-11 22"
+        stroke="url(#gold)" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M13 13c5.8 8.5 8.2 15 11 22M35 13c-5.8 8.5-8.2 15-11 22"
+        stroke="#f4d68a" stroke-width=".8" opacity=".3"/>
+  <circle cx="13" cy="13" r="3.3" fill="#f4d68a" stroke="#fff3d6" stroke-width=".8"/>
+  <circle cx="35" cy="13" r="3.3" fill="#f4d68a" stroke="#fff3d6" stroke-width=".8"/>
+  <circle cx="24" cy="35" r="3.3" fill="#f4d68a" stroke="#fff3d6" stroke-width=".8"/>
+</svg>
+
 ### 🐍 Watch the snake eat my contributions
 
 <div align="center">
