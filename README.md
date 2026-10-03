@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- ============================================================
   ✏️  PERSONALIZED FOR: Abhinav Singh (@abhinavsinghparihar)
   Theme: Deep Violet + Amber | Dark & Light auto-switch
